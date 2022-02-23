@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ceremonies us'd in the time of King Henry VII for the healing of them that be diseas'd with the kings evil</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31473</idno>
+            <idno type="STC">Wing C1675</idno>
+            <idno type="STC">ESTC R36294</idno>
+            <idno type="EEBO-CITATION">15633152</idno>
+            <idno type="OCLC">ocm 15633152</idno>
+            <idno type="VID">104267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104267)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ceremonies us'd in the time of King Henry VII for the healing of them that be diseas'd with the kings evil</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Incorrectly identified as Wing C1675.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scrofula.</term>
+               <term>Royal touch.</term>
+               <term>Lymphatics --  Diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104267:1"/>
+            <pb facs="tcp:104267:1" rendition="simple:additions"/>
+            <p>THE CEREMONIES Us'd in the Time of King Henry VII.</p>
+            <p>For the HEALING OF Them that be Diſeas'd With the KINGS EVIL.</p>
+            <p>Publiſched by his Majeſties Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty for His Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104267:2"/>
+            <pb n="1" facs="tcp:104267:2"/>
+            <head>THE CEREMONIES FOR THE HEALING Of them that be Diſeaſed with the KINGS EVIL, As they were Practiſed in the Time of King Henry VII.</head>
+            <p>Firſt, The King, kneeling, ſhall be<g ref="char:EOLhyphen"/>gin, and ſay,</p>
+            <q>IN nomine Patris, &amp; Filii, &amp; Spi<g ref="char:EOLhyphen"/>ritus Sancti. Amen.</q>
+            <pb n="2" facs="tcp:104267:3"/>
+            <p>And ſo ſoon as He hath ſaid that,</p>
+            <p>He ſhall ſay,</p>
+            <q>Benedicite.</q>
+            <p>The Chaplain kneeling before the King, having a Stole about His Neck, ſhall anſwer and ſay,</p>
+            <q>Dominus ſit in corde tuo &amp; labiis tuis, ad confitendum omnia pecca<g ref="char:EOLhyphen"/>ta tua, In nomine Patris, &amp; Filii, &amp; Spiritus Sancti. Amen.</q>
+            <p>Or elſe to ſay,</p>
+            <q>JESUS nos exaudiat, In nomine Patris, &amp; Filii, &amp; Spiritus Sancti. Amen.</q>
+            <p>Then by and by the King ſhall ſay,</p>
+            <q>Confiteor Deo, Beatae Mariae Vir<g ref="char:EOLhyphen"/>gini, omnibus Sanctis, &amp; vobis, quia peccavi nimis in cogitatione, locu<g ref="char:EOLhyphen"/>tione
+<pb n="3" facs="tcp:104267:3"/>&amp; opere, mea culpa. Precor Sanctam Mariam, omnes Sanctos Dei, &amp; vos orare pro me.</q>
+            <p>The Chaplain ſhall anſwer and ſay,</p>
+            <q>
+               <p>Miſereatur Veſtri omnipotens Deus, &amp; demittat vobis omnia Pec<g ref="char:EOLhyphen"/>cata veſtra, liberet vos ab omni ma<g ref="char:EOLhyphen"/>lo, ſalvet &amp; confirmet in bono, &amp; ad vitam perducat aeternam. Amen.</p>
+               <p>Abſolutionem &amp; Remiſſionem omnium peccatorum veſtrorum, ſpatium verae poenitentiae, &amp; emen<g ref="char:EOLhyphen"/>dationem vitae, gratiam &amp; conſola<g ref="char:EOLhyphen"/>tionem Sancti Spiritus, tribuat vo<g ref="char:EOLhyphen"/>bis omnipotens &amp; miſericors Do<g ref="char:EOLhyphen"/>minus. Amen.</p>
+            </q>
+            <p>This done, the Chaplain ſhall ſay,</p>
+            <q>Dominus vobiſcum.</q>
+            <p>The King ſhall anſwer.</p>
+            <q>Et cum Spiritu tuo.</q>
+            <pb n="4" facs="tcp:104267:4"/>
+            <p>The Chaplain,</p>
+            <q>Sequentia Sancti Evangellii ſe<g ref="char:EOLhyphen"/>cundum Marcum.</q>
+            <p>The King ſhall anſwer,</p>
+            <q>Gloria tibi, Domine.</q>
+            <p>The Chaplain ſhall read the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+            <q>IN illo tempore: Recumbentibus undecim diſcipulis apparuit illis JESUS: &amp; exprobravit increduli<g ref="char:EOLhyphen"/>tatem eorum, &amp; duritiem cordis: quia iis, qui viderant eum reſurre<g ref="char:EOLhyphen"/>xiſſe, non crediderunt. Et dixit eis; Euntes in mundum univerſum, prae<g ref="char:EOLhyphen"/>dicate Evangelium omni creaturae. Qui crediderit &amp; Baptizatus fue<g ref="char:EOLhyphen"/>rit, ſalvus erit: qui vero non credi<g ref="char:EOLhyphen"/>derit, condemnabitur. Signa au<g ref="char:EOLhyphen"/>tem eos, qui crediderint, daec ſe<g ref="char:EOLhyphen"/>quentur; In nomine meo daemonia
+<pb n="5" facs="tcp:104267:4"/>ejicient; linguis loquentur novis: ſerpentes tollent: &amp; ſi mortiferum quid biberint, non eis nocebit: Su<g ref="char:EOLhyphen"/>per aegros manus imponent, &amp; bene habebunt.</q>
+            <p>Which Clauſe, <hi>Super aegros, &amp;c.</hi> the Chaplain repeats as long as the King is handling the Sick Perſon. And in the time of the repeating the aforeſaid Words, <hi>Super ae<g ref="char:EOLhyphen"/>gros, &amp;c.</hi> the Clerk of the Cloſet ſhall kneel before the King, ha<g ref="char:EOLhyphen"/>ving the Sick Perſon upon the Right Hand; and the Sick Per<g ref="char:EOLhyphen"/>ſon ſhall likewiſe kneel before the King: And then the King ſhall lay His Hand upon the Sore of the Sick Perſon.</p>
+            <p>This done, the Chaplain ſhall make an end of the Goſpel; and in the mean time the Chirurgeon ſhall
+<pb n="6" facs="tcp:104267:5"/>lead away the Sick Perſon from the King.</p>
+            <q>Et Dominus quidem JESUS, poſtquam locutus eſt eis, aſſumptus eſt in coelum, &amp; ſedet a dextris Dei. Illi autem profecti, praedicaverunt ubique, Domino cooperante, &amp; ſermonem confirmante, ſequenti<g ref="char:EOLhyphen"/>bus ſignis.</q>
+            <p>Then the Chaplain ſhall begin to ſay again,</p>
+            <q>Dominus vobiſcum.</q>
+            <p>The King ſhall anſwer,</p>
+            <q>Et cum Spiritu tuo.</q>
+            <p>The Chaplain,</p>
+            <q>Initium Sancti Evangelii ſecun<g ref="char:EOLhyphen"/>dum Joannem.</q>
+            <p>The King ſhall ſay,</p>
+            <q>Gloria tibi Domine.</q>
+            <pb n="7" facs="tcp:104267:5"/>
+            <p>The Chaplain then ſhall ſay this Goſpel following.</p>
+            <q>IN principio erat Verbum, &amp; Verbum erat apud Deum, &amp; Deus erat Verbum. Hoc erat in principio apud Deum. Omnia per ipſum facta ſunt: &amp; ſine ipſo fa<g ref="char:EOLhyphen"/>ctum eſt nihil, quod factum eſt: in ipſo vita erat, &amp; vita erat lux hominum: Et lux in tenebris lucet, &amp; tenebrae eam non comprehende<g ref="char:EOLhyphen"/>runt. Fuit homo miſſus a Deo, cui nomen erat Joannes. Hic venit in teſtimonium, ut teſtimonium per<g ref="char:EOLhyphen"/>hiberet de lumine, ut omnes cre<g ref="char:EOLhyphen"/>derent per illum. Non erat ille lux, ſed ut teſtimonium perhiberet de lumine. Erat lux vera quae il<g ref="char:EOLhyphen"/>luminat omnem hominem venien<g ref="char:EOLhyphen"/>tem in hunc mundum.</q>
+            <pb n="8" facs="tcp:104267:6"/>
+            <p>Which laſt Clauſe, <hi>Erat lux vera, &amp;c.</hi> ſhall ſtill be repeated ſo long as the King ſhall be Croſſing the Sore of the Sick Perſon with an Angel Noble; and the Sick Perſon to have the ſame Angel hanged about his Neck, and to wear it until he be full whole.</p>
+            <p>This done, the Chirurgeon ſhall lead away the Sick Perſon as he did before; and then the Chap<g ref="char:EOLhyphen"/>lain ſhall make an end of the Goſpel.</p>
+            <q>In mundo erat, &amp; mundus per ipſum factus eſt, &amp; mundus eum non cognovit. In propria venit, &amp; ſui eum non receperunt. Quot<g ref="char:EOLhyphen"/>quot autem receperunt eum dedit eis poteſtatem filios Dei fieri, his, qui credunt in nomine ejus: qui non ex ſanguinibus, neque ex vo<g ref="char:EOLhyphen"/>luntate
+<pb n="9" facs="tcp:104267:6"/>carnis, neque ex voluntate viri, ſed ex Deo nati ſunt. Et Ver<g ref="char:EOLhyphen"/>bum caro factum eſt, &amp; habitavit in nobis: &amp; vidimus gloriam ejus, gloriam quaſi unigeniti a Patre, plenum gratiae &amp; veritatis.</q>
+            <p>Then the Chaplain, ſhall ſay,</p>
+            <q>Sit nomen Domini Benedictum.</q>
+            <p>The King ſhall anſwer,</p>
+            <q>Ex hoc nunc &amp; uſque in ſeculum.</q>
+            <p>Then ſhall the Chaplain ſay this Collect following, praying for the Sick Perſon or Perſons.</p>
+            <q>Domine exaudi orationem meam.</q>
+            <p>The King ſhall anſwer,</p>
+            <q>Et clamor meus ad te veniat.</q>
+            <p>Oremus.</p>
+            <q>OMnipotens ſempiterne Deus, ſalus aeterna credentium, ex<g ref="char:EOLhyphen"/>audi.
+<pb n="10" facs="tcp:104267:7"/>nos pro famulis tuis, pro qui<g ref="char:EOLhyphen"/>bus miſericordiae tuae imploramus auxilium, ut reddita ſibi ſanitate, gratiarum tibi in Eccleſia tua refe<g ref="char:EOLhyphen"/>rant actiones. Per Chriſtum Do<g ref="char:EOLhyphen"/>minum noſtrum. Amen.</q>
+            <div type="prayer">
+               <head>This Prayer is to be ſaid ſecretly af<g ref="char:EOLhyphen"/>ter the Sick Perſons are departed from the King, at his pleaſure.</head>
+               <p>DOminator Domine Deus Om<g ref="char:EOLhyphen"/>nipotens cujus benignitate, caeci vident, ſurdi audiunt, muti loquuntur, claudi ambulant, leproſi mundantur, omnes infirmorum cu<g ref="char:EOLhyphen"/>rantur languores, &amp; a quo ſolo do<g ref="char:EOLhyphen"/>num ſanationis humano generi eti<g ref="char:EOLhyphen"/>am tribuitur &amp; tanta gratia pro in<g ref="char:EOLhyphen"/>credibili tua erga hoc regnum bo<g ref="char:EOLhyphen"/>nitate, Regibus ejuſdem conceſſa eſt, ut ſola manuum illorum impo<g ref="char:EOLhyphen"/>fiotione, morbus graviſſimus foetidiſ<g ref="char:EOLhyphen"/>ſimuſque
+<pb n="11" facs="tcp:104267:7"/>depellatur, concede pro<g ref="char:EOLhyphen"/>pitius ut tibi propterea gratias aga<g ref="char:EOLhyphen"/>mus, &amp; pro iſto ſingulari beneficio in nos collato, non nobis ipſis, ſed nomini tuo aſſidue gloriam demus, noſque ſic ad pietatem ſemper exer<g ref="char:EOLhyphen"/>ceamus, ut tuam nobis donatam gra<g ref="char:EOLhyphen"/>tiam non ſolum diligenter conſerva<g ref="char:EOLhyphen"/>re, ſed in dies magis magiſque adau<g ref="char:EOLhyphen"/>gere laboremus, &amp; praeſta, ut quo<g ref="char:EOLhyphen"/>rumcunque corporibus, in nomine tuo manus impoſuerimus hac tua virtute in illis operante &amp; nobis mi<g ref="char:EOLhyphen"/>niſtrantibus, ad priſtinam ſanitatem reſtituantur, eam conſervent, &amp; pro eadem tibi, ut ſummo medico &amp; omnium morborum depulſori, perpetuo nobiſcum gratias agant: Sicque deinceps vitam inſtituant ut non corpus ſolum ab infirmitate, ſed anima etiam a peccato omnino ſanata videatur. Per Dominum
+<pb n="12" facs="tcp:104267:8"/>noſtrum JESUM CHRISTUM Fi<g ref="char:EOLhyphen"/>lium tuum, qui tecum vivit &amp; reg<g ref="char:EOLhyphen"/>nat in unitate Sancti Spiritus per omnia ſecula ſeculorum. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104267:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
